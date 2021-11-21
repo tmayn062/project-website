@@ -1,5 +1,4 @@
 ---
-slides: example
 url_pdf: ""
 summary: Undergraduate Computer Science Honours Project - Winner of Cognos Prize
 url_video: ""
