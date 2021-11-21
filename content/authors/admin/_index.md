@@ -31,4 +31,4 @@ Tiffany Maynard is a recent graduate of the University of Ottawa where she earne
 
 She is now continuing her deep learning and French language education independently using resources available on the web and she would like to continue her education more formally with a Masters degree studying Natural Language Processing or Information Retrieval.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/resume_web.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "authors/admin/resume_web.pdf" "newtab" >}}resume{{< /staticref >}}.
