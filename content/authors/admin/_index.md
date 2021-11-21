@@ -1,8 +1,7 @@
 ---
 role: ""
 avatar_filename: avatar.jpg
-bio: Recent graduate interesting in pursuing an MSc in Computer Science with a
-  focus on NLP
+bio: Recent graduate interested in pursuing an MSc in Computer Science
 interests:
   - Artificial Intelligence
   - Natural Language Processing
