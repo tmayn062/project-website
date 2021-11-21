@@ -17,7 +17,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename: featured.png
+  filename: featured.jpg
 url_code: ""
 ---
 Puzzle Boon suggests possible matches based on three photos – one of the full puzzle image from the puzzle box, one of the puzzle in progress, and one of the remaining puzzle pieces.
