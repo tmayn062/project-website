@@ -17,6 +17,9 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: CV
+   - name: Resume
     url: authors/admin/resume_web.pdf
     weight: 70
+  - name: CV
+    url: authors/admin/CV_TiffanyMaynard_web.pdf
+    weight: 80
