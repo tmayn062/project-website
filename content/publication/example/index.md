@@ -1,6 +1,6 @@
 ---
 abstract: ""
-draft: true
+draft: false
 slides: ""
 url_pdf: ""
 publication_types:
