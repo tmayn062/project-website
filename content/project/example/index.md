@@ -8,8 +8,7 @@ external_link: ""
 url_slides: ""
 title: "Puzzle Boon : Jigsaw Puzzle Assist"
 subtitle: ""
-tags:
-  - DeepLearning
+tags: []
 links:
   - icon: github
     icon_pack: fab
