@@ -28,6 +28,8 @@ highlight_name: true
 title: Tiffany Maynard
 email: ""
 ---
-Tiffany Maynard is a recent graduate of the University of Ottawa where she earned an Honours Bachelor of Science in Computer Science (French Immersion Stream) with the distinction Summa Cum Laude. She is now continuing her deep learning and French language education independently using resources available on the web and she would like continue her education more formally with a Masters degree studying Natural Language Processing. 
+Tiffany Maynard is a recent graduate of the University of Ottawa where she earned an Honours Bachelor of Science in Computer Science (French Immersion Stream) with the distinction Summa Cum Laude. 
+
+She is now continuing her deep learning and French language education independently using resources available on the web and she would like to continue her education more formally with a Masters degree studying Natural Language Processing or Information Retrieval.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/resume_web.pdf" "newtab" >}}resume{{< /staticref >}}.
