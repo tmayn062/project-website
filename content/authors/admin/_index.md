@@ -28,8 +28,6 @@ highlight_name: true
 title: Tiffany Maynard
 email: ""
 ---
-Tiffany Maynard is a recent graduate of Comp. Her research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tiffany Maynard is a recent graduate of the University of Ottawa where she earned an Honours Bachelor of Science in Computer Science (French Immersion Stream) with the distinction Summa Cum Laude. She is now continuing her deep learning and French language education independently using resources available on the web and she would like continue her education more formally with a Masters degree studying Natural Language Processing. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/resume_web.pdf" "newtab" >}}resume{{< /staticref >}}.
