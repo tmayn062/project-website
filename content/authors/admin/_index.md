@@ -1,5 +1,5 @@
 ---
-role: ""
+role: firstname dot lastname at gmail dot com
 avatar_filename: avatar.jpg
 bio: Recent graduate interested in pursuing an MSc in Computer Science
 interests:
@@ -7,9 +7,6 @@ interests:
   - Natural Language Processing
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: github
     icon_pack: fab
     link: https://github.com/tmayn062
