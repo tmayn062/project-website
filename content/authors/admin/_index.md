@@ -1,6 +1,6 @@
 ---
 role: ""
-avatar_filename: highres_270444921.jpeg
+avatar_filename: avatar.jpg
 bio: Recent graduate interesting in pursuing an MSc in Computer Science with a
   focus on NLP
 interests:
